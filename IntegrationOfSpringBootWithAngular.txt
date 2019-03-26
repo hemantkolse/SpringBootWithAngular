@@ -1,0 +1,19 @@
+rest webservices material:-
+
+https://dzone.com/articles/leverage-http-status-codes-to-build-a-rest-service
+
+project github link -
+
+https://github.com/sbouclier/java-rest-books
+========================================================================================
+
+integrating springboot project with angular:-
+kill port in windows -
+
+netstat -a -o -n
+
+ taskkill /F /PID 2600
+ 
+ add on controller while integrating the angular with spingboot:
+ @CrossOrigin(origins = "*", allowedHeaders = "*")
+ =============================================================================
